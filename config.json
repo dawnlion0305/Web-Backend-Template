@@ -1,0 +1,10 @@
+{
+    "HTTP_PORT":3000,
+    "dbLink":"mongodb://127.0.0.1:27017/NurseSys",
+    "redisPort":6379,
+    "redisLink":"127.0.0.1",
+    "WX_APP_KEY":"wx3c36904812be27e2",
+    "WX_APP_SECRET":"4c86305660e1947f3f5210a7806766bf",
+    "DD_APP_KEY":"ding40r7xsfawcswcgoc",
+    "DD_APP_SECRET":"Og-h7fKKWeRPTmaf9tm6Zg9bBRp9hPVbF7KyL1wWhun7No4BqAacqzrusNj4s5sb"
+}
